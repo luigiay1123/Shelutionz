@@ -432,6 +432,6 @@ footer {
 
 .socialLink {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   width: 8.33333333%;
 }
