@@ -269,7 +269,8 @@ h1{
 }
 
 #Portfolio{
-  padding: 92px 0px;
+  padding: 92px 0px
+  background: #FFFBEB;
 }
 
 .portfolioItems{
