@@ -269,7 +269,7 @@ h1{
 }
 
 #Portfolio{
-  padding: 92px 0px
+  padding: 92px 0px;
   background: #FFFBEB;
 }
 
@@ -432,6 +432,6 @@ footer {
 
 .socialLink {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   width: 8.33333333%;
 }
