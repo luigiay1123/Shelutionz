@@ -668,7 +668,7 @@ footer {
   }
 
   .portfolioProject {
-    height: 90vh;
+    height: auto;
     width: 50%;
     object-fit: contain;
   }
