@@ -888,6 +888,14 @@ footer {
     margin-bottom: 32px;
   }
 
+  .backBtn {
+    left: 10%;
+  }
+  
+  .nextBtn {
+    right: 10%;
+  }
+
   .is-hidden {
     display: none;
   }
