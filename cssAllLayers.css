@@ -1,0 +1,355 @@
+/* Header */
+
+position: absolute;
+width: 1440px;
+height: 100px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+
+
+/* Frame 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 41px;
+
+position: absolute;
+width: 534px;
+height: 24px;
+left: 520px;
+top: 40px;
+
+
+
+/* Home */
+
+width: 48px;
+height: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #1F2937;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Services */
+
+width: 67px;
+height: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #1F2937;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* About */
+
+width: 48px;
+height: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #1F2937;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Portfolio */
+
+width: 65px;
+height: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #1F2937;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Blog */
+
+width: 35px;
+height: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #1F2937;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Contact */
+
+width: 66px;
+height: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #1F2937;
+
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Frame 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px;
+gap: 10px;
+
+position: absolute;
+width: 193px;
+height: 48px;
+left: 1087px;
+top: 25px;
+
+background: #FACC15;
+border-radius: 100px;
+
+
+/* Free Consultation */
+
+width: 144px;
+height: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #1F2937;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* logo 1 */
+
+position: absolute;
+width: 191px;
+height: 29px;
+left: 160px;
+top: calc(50% - 29px/2 - 0.5px);
+
+
+
+/* Layer 2 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Layer 1 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 84.76%;
+top: 29.34%;
+bottom: 0%;
+
+background: linear-gradient(90deg, #F97316 0%, #FACC15 100%);
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 84.76%;
+top: 2.81%;
+bottom: 26.5%;
+
+background: linear-gradient(90deg, #0F766E 0.01%, #10B981 100%);
+
+
+/* Vector */
+
+position: absolute;
+left: 17.05%;
+right: 73.1%;
+top: 7.19%;
+bottom: 5.57%;
+
+background: #0F766E;
+
+
+/* Vector */
+
+position: absolute;
+left: 28.41%;
+right: 61.65%;
+top: 27.7%;
+bottom: 4.62%;
+
+background: #0F766E;
+
+
+/* Vector */
+
+position: absolute;
+left: 40.14%;
+right: 56.82%;
+top: 8.13%;
+bottom: 4.63%;
+
+background: #0F766E;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.09%;
+right: 45.04%;
+top: 28.65%;
+bottom: 4.88%;
+
+background: #0F766E;
+
+
+/* Vector */
+
+position: absolute;
+left: 56.42%;
+right: 37.33%;
+top: 12.63%;
+bottom: 5.57%;
+
+background: #0F766E;
+
+
+/* Vector */
+
+position: absolute;
+left: 64.07%;
+right: 32.32%;
+top: 0%;
+bottom: 78.18%;
+
+background: #0F766E;
+
+
+/* Vector */
+
+position: absolute;
+left: 64.35%;
+right: 32.61%;
+top: 28.65%;
+bottom: 5.57%;
+
+background: #0F766E;
+
+
+/* Vector */
+
+position: absolute;
+left: 68.99%;
+right: 20.72%;
+top: 27.7%;
+bottom: 4.62%;
+
+background: #0F766E;
+
+
+/* Vector */
+
+position: absolute;
+left: 80.9%;
+right: 9.25%;
+top: 27.94%;
+bottom: 5.57%;
+
+background: #0F766E;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.31%;
+right: 0%;
+top: 28.65%;
+bottom: 5.57%;
+
+background: #0F766E;
