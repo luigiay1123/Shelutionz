@@ -284,6 +284,22 @@ h1{
 
 }
 
+.portfolioWorks {
+  display: flex;
+  gap: 24px;
+  margin-top: 68px;
+}
+
+.portfolioFigure {
+  text-align: center;
+}
+
+.portfolioFigure figcaption {
+  font-weight: 600;
+  font-size: 28px;
+  margin-top: 28px;
+}
+
 .backBtn, .nextBtn {
   display: none;
 }
@@ -626,6 +642,33 @@ footer {
     gap: 12px;
   }
 
+  .portfolioWorks {
+    flex-wrap: wrap;
+    margin-top: 52px;
+    justify-content: center;
+  }
+
+  .portfolioFigure {
+    flex: 1 1 calc(50% - 12px);
+    max-width: calc(50% - 12px);
+  }
+
+  .portfolioFigure:nth-child(3) {
+    flex: 1 1 40%;
+    max-width: 40%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .portfolioFigure img {
+    width: 100%;
+  }
+
+  .portfolioFigure figcaption {
+    margin-top: 34px;
+  }
+
   .portfolioWrapper {
     position: relative;
     width: 100%;
@@ -881,6 +924,28 @@ footer {
 
   #Portfolio {
     padding: 40px 0px;
+  }
+
+  .portfolioWorks {
+    flex-wrap: nowrap;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 25px;
+    gap: 32px;
+  }
+
+  .portfolioFigure {
+    flex: 1 1 100%;
+    max-width: 100%;
+  }
+
+  .portfolioFigure:nth-child(3) {
+    flex: 1 1 100%;
+    max-width: 100%;
+  }
+
+  .portfolioFigure figcaption {
+    margin-top: 16px;
   }
 
   .portfolioSamples {
